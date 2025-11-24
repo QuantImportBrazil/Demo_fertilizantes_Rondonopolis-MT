@@ -4,11 +4,16 @@
 
 # Previsão de Importação - Rondonópolis-MT
 
-> **Emissão:** 11-2025  
-> A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.  
-> As previsões foram geradas tendo o mês 10 anterior como último mês conhecido.  
-> O objetivo aqui é demonstrar o formato geral do gráfico. Os intervalos de confiança podem ser reduzidos através de 'tuning'. 
-
+> **Emissão:** 11-2025
+> 
+> A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
+> 
+> As previsões foram geradas tendo o mês 10 anterior como último mês conhecido.
+> 
+> O objetivo aqui é demonstrar o formato geral do gráfico.
+> 
+> A exatidão das previsões pode ser aumentada através do processo de ajuste fino [(otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
+>
 ---
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
